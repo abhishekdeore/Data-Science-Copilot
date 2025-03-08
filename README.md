@@ -15,11 +15,3 @@ A web application for data cleaning, processing, and analysis. The app allows us
 
 - `/frontend`: React.js frontend application
 - `/backend`: Flask Python backend API
-
-## Setup Instructions
-
-### Backend Setup
-
-1. Navigate to the backend directory:
-   ```bash
-   cd backend
